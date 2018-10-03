@@ -8,7 +8,7 @@
 <img width="500" alt="2018-04-19" src="https://user-images.githubusercontent.com/13360878/46387986-a95c5f80-c704-11e8-9ce5-e4e1f02e3031.JPG">
 <img width="500" alt="2018-04-19" src="https://user-images.githubusercontent.com/13360878/46387990-b11c0400-c704-11e8-96b0-e07deefdd056.JPG">
 
-###　毒植物
+### 毒植物
 * トリカブト
 * イッポンシメジ(ウラベニホテイシメジに似ている)
 * クサウラベニタケ(ウラベニホテイシメジに似ている)
