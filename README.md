@@ -21,4 +21,4 @@
 * 葉痕 - 植物が落葉したとき茎の表面に残される傷跡のこと。葉印(よういん)ともいう。
 * 羽状複葉 - 葉柄から続く葉軸の左右に小葉をつけるような配列の複葉。
 * 掌状複葉 - 複葉のうち，小葉が1ヵ所から数個の方向に向って指のように分れ出ているもの
-<img width="1343" alt="2018-04-19" src="https://user-images.githubusercontent.com/13360878/46387948-61d5d380-c704-11e8-9dd2-db173e6197ad.png">
+<img width="1000" alt="2018-04-19" src="https://user-images.githubusercontent.com/13360878/46387948-61d5d380-c704-11e8-9dd2-db173e6197ad.png">
