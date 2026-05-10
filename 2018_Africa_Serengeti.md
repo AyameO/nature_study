@@ -9,19 +9,19 @@
 <img src="https://github.com/AyameO/nature_study/blob/master/images/2018/IMG_1946_Zebra.JPG">
 
 * Giraffe
-<img scr="https://github.com/AyameO/nature_study/blob/master/images/2018/IMG_4978_Giraffe.JPG">
+<img src="https://github.com/AyameO/nature_study/blob/master/images/2018/IMG_4978_Giraffe.JPG">
 
 ### carnivore
 * Cheetah
-<img scr="https://github.com/AyameO/nature_study/blob/master/images/2018/IMG_4980_Cheetah.jpg">
+<img src="https://github.com/AyameO/nature_study/blob/master/images/2018/IMG_4980_Cheetah.jpg">
 
 * Lion
-<img scr="https://github.com/AyameO/nature_study/blob/master/images/2018/IMG_4974_Lion.JPG">
+<img src="https://github.com/AyameO/nature_study/blob/master/images/2018/IMG_4974_Lion.JPG">
 
 ### omnivore
 * Vetvet Monkey
-<img scr="https://github.com/AyameO/nature_study/blob/master/images/2018/IMG_4977_VervetMonkey.JPG">
+<img src="https://github.com/AyameO/nature_study/blob/master/images/2018/IMG_4977_VervetMonkey.JPG">
 
 ### not animal
-<img scr="https://github.com/AyameO/nature_study/blob/master/images/2018/IMG_4973_ParkInfo.JPG">
-<img scr="https://github.com/AyameO/nature_study/blob/master/images/2018/IMG_1970_Stars.JPG">
+<img src="https://github.com/AyameO/nature_study/blob/master/images/2018/IMG_4973_ParkInfo.JPG">
+<img src="https://github.com/AyameO/nature_study/blob/master/images/2018/IMG_1970_Stars.JPG">
