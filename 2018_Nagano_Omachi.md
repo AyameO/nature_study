@@ -13,6 +13,10 @@
 * クサウラベニタケ(ウラベニホテイシメジに似ている)
 <img width="500" alt="2018-04-19" src="https://user-images.githubusercontent.com/13360878/46388666-9c416f80-c708-11e8-9936-934a68f8a0a2.JPG">
 
+### 野生のカモシカに出会った！
+* カモシカ
+<imag width="500" src="https://private-user-images.githubusercontent.com/13360878/590071216-2771c0c0-ab7f-4634-9e1c-ab3923dcae2d.JPG?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgzOTQ1NjYsIm5iZiI6MTc3ODM5NDI2NiwicGF0aCI6Ii8xMzM2MDg3OC81OTAwNzEyMTYtMjc3MWMwYzAtYWI3Zi00NjM0LTllMWMtYWIzOTIzZGNhZTJkLkpQRz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTEwVDA2MjQyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwNWEzZDk5YjUxNDJlOGNlYmI0M2I5YzM0MjYzYjI0OWUyZjMzMDU1ZWQ3MDExZTk3ZmU5MWQ1NGYwNzdlZjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmpwZWcifQ.23vqsuUyPqlMLaNhejofevnysDxUaQm8MiRLztV2m5E">
+  
 ### 植物の全体的な知識
 * 植物が緑色なのは緑色の光を反射しているから。
 * 樹高 - 木の高さ
