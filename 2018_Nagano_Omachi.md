@@ -15,7 +15,7 @@
 
 ### 野生のカモシカに出会った！
 * カモシカ
-<imag width="500" alt="2018-09-24" src="https://github.com/AyameO/nature_study/blob/master/images/IMG_2026.JPG">
+<img width="500" alt="2018-09-24" src="https://github.com/AyameO/nature_study/blob/master/images/IMG_2026.JPG">
   
 ### 植物の全体的な知識
 * 植物が緑色なのは緑色の光を反射しているから。
